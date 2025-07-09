@@ -1,5 +1,5 @@
 
-# 📦 Incantation - UnderGround SMTP Checker & Bulk Sender (Windows Edition)
+# 📦 Incantation - UnderGround SMTP Checker
 
 Welcome to **Incantation.exe** — a lightweight, encrypted SMTP checker built for speed, reliability, and privacy. This tool helps you verify if SMTP credentials are valid, logs the results, and ensures access is protected via a license system.
 
